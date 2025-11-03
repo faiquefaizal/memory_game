@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:memory_game/core/widgets/sizedWidget.dart';
-import 'package:memory_game/theme/app_color.dart';
+import 'package:memory_game/core/theme/app_color.dart';
 
 import 'package:memory_game/widgets/restart_button.dart';
 

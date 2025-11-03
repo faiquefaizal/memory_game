@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:memory_game/bloc/memory_game_bloc.dart';
 import 'package:memory_game/core/widgets/sizedWidget.dart';
 import 'package:memory_game/cubit/timer_cubit.dart';
-import 'package:memory_game/home_screen.dart';
+import 'package:memory_game/screens/home_screen.dart';
 import 'package:memory_game/widgets/start_button.dart';
 import 'package:memory_game/widgets/start_screen.dart';
 

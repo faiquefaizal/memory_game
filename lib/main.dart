@@ -5,7 +5,7 @@ import 'package:memory_game/core/theme/app_theme.dart';
 import 'package:memory_game/cubit/timer_cubit.dart';
 import 'package:memory_game/home_screen.dart';
 import 'package:memory_game/screens/start_screen.dart';
-import 'package:memory_game/theme/app_color.dart';
+import 'package:memory_game/core/theme/app_color.dart';
 
 void main() {
   runApp(MyApp());
