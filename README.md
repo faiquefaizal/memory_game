@@ -1,11 +1,6 @@
-Here is a README.md file for your Memory Game project, based on the code and tech stack from our conversation.
-
-You can copy and paste this directly into a file named README.md in your project's root directory.
-
 🧠 Flutter Memory Game
 A classic card-matching memory game built with Flutter and BLoC. This app features a clean UI, smooth flip animations, and a game timer.
 
-![]
 
 📝 Description
 This is a simple tile-matching game where the player must find all the matching pairs of cards. The game tracks the player's time and displays a success message upon completion. It is built to demonstrate a clean Flutter project structure using the BLoC pattern for state management.
@@ -43,3 +38,4 @@ Assets:
 Custom fruit images (Apple, Banana, Orange, etc.).
 
 Custom font (Spline Sans).
+
